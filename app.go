@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// Configuração inicial do cliente
-	clientID := "1316725647149895711" // Substitua pelo ID real
+	clientID := "51235641261243654" // Substitua pelo ID real
 
 	err := client.Login(clientID)
 	if err != nil {

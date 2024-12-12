@@ -1,4 +1,4 @@
-![](https://i.imgur.com/zIlTlab.png)
+![](https://i.imgur.com/pRw7xVa.png)
 > Fonte: [Pypresence](https://qwertyquerty.github.io/pypresence/html/index.html).
 
 ## Discord Rich Presence:
@@ -50,7 +50,6 @@ buttons = [
             {"label": "Sketchub", "url": "https://sketchub.in"},
         ]
 ```
-> Biblioteca pypresence.
 
 Definição das imagens a serem exibidas:
 
@@ -60,3 +59,6 @@ small_image="https://i.imgur.com/pftnAO5.jpeg",
 ```
 
 > Biblioteca pypresence.
+
+> [!note}
+> Há duas versões: `Python` e `Go`, estão na pasta `versions`.

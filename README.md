@@ -60,5 +60,5 @@ small_image="https://i.imgur.com/pftnAO5.jpeg",
 
 > Biblioteca pypresence.
 
-> [!note}
+> [!note]
 > Há duas versões: `Python` e `Go`, estão na pasta `versions`.
